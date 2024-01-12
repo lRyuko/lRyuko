@@ -1,5 +1,4 @@
-- 'developer'
-- python | learning c++
+meow
 
 <!---
 lRyuko/lRyuko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
